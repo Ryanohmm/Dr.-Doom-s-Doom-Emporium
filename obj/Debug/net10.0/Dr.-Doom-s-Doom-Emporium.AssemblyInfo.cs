@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dr.-Doom-s-Doom-Emporium")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4aca725caeb4813e05cf24c2fe29b1c358ccfff0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dr.-Doom-s-Doom-Emporium")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dr.-Doom-s-Doom-Emporium")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
